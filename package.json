@@ -1,0 +1,25 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "creating a test platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicakafor/socialplatform.git"
+  },
+  "keywords": [
+    "social",
+    "platform",
+    "first",
+    "test"
+  ],
+  "author": "Jessica Kafor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicakafor/socialplatform/issues"
+  },
+  "homepage": "https://github.com/jessicakafor/socialplatform#readme"
+}
